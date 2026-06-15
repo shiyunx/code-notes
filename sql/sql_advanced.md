@@ -1,4 +1,4 @@
-## Advanced SQL
+## Advanced Sql
 
 ### Window Functions (Analytics)
 

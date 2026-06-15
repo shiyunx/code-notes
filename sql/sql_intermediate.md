@@ -1,4 +1,4 @@
-## SQL Intermediate
+## Sql Intermediate
 
 ### Group By
 

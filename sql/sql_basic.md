@@ -1,4 +1,4 @@
-## SQL Basic
+## Sql Basic
 ### Create Table
 
 ```sql
